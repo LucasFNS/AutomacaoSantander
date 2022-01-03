@@ -1,0 +1,1 @@
+Projeto do site automation practice, onde criei alguns testes envolvendo a tela de Login e a Tela de cadastro.
